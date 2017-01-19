@@ -12,12 +12,12 @@ The product shall consist of the basic modules, which are listed as follows
 7. Managing the current allocated projects to the employees, within the organization.
 
 ##Users:
- ###1) Admin:
+ ###1. Admin:
     Admin have complete access of the system which includes registration of employees; decide privileges for other employees, viewing         and modifying attendance of the present day, viewing and modifying employee salary, delete record or profile of employee, allocation       and de-allocation of project to an employee, approve/disapprove leave application of an employee.
- ###2) Employee:
+ ###2. Employee:
     Employee will be able to mark his/her attendance, view his/her attendance history, to view his/her current salary,  view his/her           current employee profile (including educational and industrial history), view all his/her projects within organization, view other         employees who are sharing the same project with him, apply for leave and view status of leave applications.
- ###3) Project Manager:
+ ###3. Project Manager:
     Project Manager will be able to view skills of employees, provide performance appraisal to employee.
- ###4) Accounts Manager:
+ ###4. Accounts Manager:
     Accounts Manager will be able to generate pay slip for each employee, set bonus for employee, set pay of employee, increment pay of       employee, sent email pay slip to each employee. 
 
